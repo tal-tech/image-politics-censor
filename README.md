@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 涉政检测
 
 此版本将caffe mtcnn替换为retinaface, 推测时间优化
@@ -16,3 +17,6 @@
 ## 运行环境python3.7
 
 # 涉政人数检测
+=======
+# image-politics-censor
+>>>>>>> a0e01da53cbfd3e80a593a74bc3cc520cca0d2d2
