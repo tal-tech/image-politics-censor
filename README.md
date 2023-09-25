@@ -14,3 +14,5 @@
 - 调用mertic_retina.py,测试指标
 
 ## 运行环境python3.7
+
+# 涉政人数检测
